@@ -41,3 +41,8 @@ p {
   font-size: 11px;
   background-color: dimgray;
 }
+
+#footwhite {
+  color: white;
+  background-color: dimgray;
+}
