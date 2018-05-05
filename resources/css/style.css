@@ -30,5 +30,8 @@ p {
 
 .white {
   color: white;
-  background-color: dimgray;
+}
+
+.gray {
+  color: dimgray;
 }
