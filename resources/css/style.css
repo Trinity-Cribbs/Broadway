@@ -54,6 +54,6 @@ footer p a {
   background-color: dimgray;
 }
 
-header h1 {
+header h1, header nav {
   background-image: url(../images/the-flatiron-building.png);
 }
