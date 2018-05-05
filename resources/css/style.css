@@ -27,3 +27,8 @@ p {
   font-size: 14px;
   color: black;
 }
+
+.white {
+  color: white;
+  background-color: dimgray;
+}
