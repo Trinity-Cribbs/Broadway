@@ -28,8 +28,9 @@ p {
   color: black;
 }
 
-.white {
+.footwhite {
   color: white;
+  text-align: left;
 }
 
 .gray {
