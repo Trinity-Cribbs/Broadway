@@ -27,23 +27,3 @@ p {
   font-size: 14px;
   color: black;
 }
-
-.white {
-  color: white;
-}
-
-.flatiron {
-  background-image: url(../resources/images/the-flatiron-building.png);
-}
-
-.foot {
-  text-align: left;
-  font-size: 11px;
-  background-color: dimgray;
-}
-
-#footwhite {
-  color: white;
-  background-color: dimgray;
-  text-align: left;
-}
