@@ -53,3 +53,7 @@ footer p a {
 .gray {
   background-color: dimgray;
 }
+
+.headnav {
+  background-image: url(../images/the-flatiron-building.png);
+}
