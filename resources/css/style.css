@@ -39,12 +39,13 @@ a {
 
 .footwhite {
   font-size: 11px;
+  text-align: left;
 }
 
 .gray {
   background-color: dimgray;
   color: white;
-  text-align: left;
+  font-size: 11px;
 }
 
 header {
