@@ -29,6 +29,14 @@ p {
   color: black;
 }
 
+a {
+  color: white;
+}
+
+footer.a {
+  text-align: left;
+}
+
 .footwhite {
   color: white;
   text-align: left;
