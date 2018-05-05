@@ -7,6 +7,7 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   background-image: url(../images/the-flatiron-building.png);
+  color: white;
 }
 nav {
   font-size: 18px;
@@ -28,6 +29,11 @@ h3 {
 p {
   font-size: 14px;
   color: black;
+}
+
+#nyc {
+  color: black;
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 a {
